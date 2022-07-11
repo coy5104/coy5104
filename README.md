@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coy5104, call me Christine!
-- 👀 I’m interested in health, testing new beauty products, and bettering myself in all aspects.
+- 👀 I’m interested in health, testing new beauty products, spending time with my family, and bettering myself in all aspects.
 - 🌱 I’m currently learning how to code in javascript.
 - 💞️ I’m looking to collaborate on an app!
 - 📫 How to reach me - by email, xeilingxd@gmail.com
